@@ -28,7 +28,7 @@ function checkRegex(msg){
 
 async function spam(channel, min, max) {
     console.log('spam');
-    const jsonString = fs.readFileSync(process.env.messages || './answers.json')
+    const jsonString = fs.readFileSync(process.env.messages || './resources/answers.json')
     const msg_json = JSON.parse(jsonString);
     const msgs = msg_json['messages'];
 
