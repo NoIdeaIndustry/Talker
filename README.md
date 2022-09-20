@@ -3,9 +3,8 @@
 # Talker
 </div>
 
-**Talker is very simple user bot made to automatically answer and talk by itself on any discord servers (mainly NFT related).** <br/>
-
-**This project was made during the NFT boom and the need of leveling accounts to certain levels which was really time consuming.**<br/>
+**Talker is very simple user bot made to automatically answer and talk by itself on any discord servers.** <br/>
+**This project was made during the NFT boom and the need of leveling accounts to certain levels which was time consuming.**<br/>
 
 # Installation
 First of all you need to install npm.<br/>
