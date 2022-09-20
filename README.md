@@ -33,7 +33,7 @@ The configuration is pretty self-explanatory:
 * `token`: your client/user token.<br/>
 * `min`: minimum amount of time before sending a new message.<br/> 
 * `max`: maximum amount of time before sending a new message<br/> 
-* `key`: OpenAI api key<br/> 
+* `key`: OpenAI api key.<br/> 
 
 # Other information
 Looking to get more details? Please refer to
