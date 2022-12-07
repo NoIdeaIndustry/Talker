@@ -21,8 +21,8 @@ A good tool called tmux (only working on linux OS) -> https://tmuxcheatsheet.com
 # Configuration
 This is how the configuration looks like.<br/>
 
-![](screenshots/config_default_exemple.png?raw=true "Default Config Exemple")
-![](screenshots/config_custom_exemple.png?raw=true "Custom Config Exemple")
+![](Showcase/config_default_exemple.png?raw=true "Default Config Exemple")
+![](Showcase/config_custom_exemple.png?raw=true "Custom Config Exemple")
 
 You have two exemples:
 - on the left, the default configuration that you will have to fill up with your informations.<br/>
